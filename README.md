@@ -109,6 +109,7 @@ If you'd chosen one of the Algorithms, copy the Code in your `Contents.json`. An
 
 ```json
 {
+	"Cherry_Blossom":
 	[
 		{ "id": "Cherry_Blossom_01", "time": 0 },
 		{ "id": "Cherry_Blossom_02", "time": 0.25 },
@@ -318,6 +319,7 @@ If you're now opening the Context Menu on a Folder, you should see a new Entry, 
 Let's get started with the major Part of this Step&nbsp;: Every Debian-Package contains a File `control`, with Informations about the Package. Navigate to `📂 Step 7` and you'll see a lot of Folders. In Step 5 &quot;[Wallpaper-Time](#5-wallpaper-time)&quot;, you've chosen a Display Size for you Wallpaper-Set, now pick the corresponding Debian-Folder and copy the Folder of your Wallpaper-Set into the following Folders&nbsp;:
 
  `📂 Step 7 ● * ● var ● mobile ● Library ● Widgets ● Homescreen ● moXen ● Assets` or
+
  `📂 Step 7 ● * ● var ● mobile ● Library ● Widgets ● Lockscreen ● moXen ● Assets`
 
 Replace the `*` with a Debian-Folder from the following List&nbsp;…
@@ -356,7 +358,7 @@ Looks a Bit generic and that's true. Here you can create your own Package-Identi
 
 Now let's edit the File `control`. Navigate to `📂 Step 7 ● * ● DEBIAN` and open `control` in your Text Editor. The File already contain a few Informations and Example Data about the Package&nbsp;…
 
-```properties
+```
 Package: com.xyz.moxen.abc-667h-2x-iphone
 Version: 2009
 Section: XenHTML ( Assets )
@@ -382,7 +384,7 @@ Let's explain these Fields. If you want more Information about the Fields, have 
 |    Author    | Your Name ( and optionally your E-Mail-Address ).            |
 |  Maintainer  | The Name of the Repo-Maintainer ( and optionally your E-Mail-Address ). |
 |     Icon     | Changes the Icon of the Package in a Package Manager.        |
-| Pre-Depends  | Contains a List of Pre-Dependencies, we're using it to detect the Device Model and Display Size. |
+| Pre-Depends  | Contains a List of Pre-Depends, we're using it to detect the Device Model and Display Size. |
 |   Depends    | Contains a List of Dependencies, we're using this to install moXen, if it's not already installed. |
 | Architecture | The Architecture of your Package.                            |
 | Description  | A short Description of your Wallpaper-Set.                   |
