@@ -1,0 +1,14 @@
+{
+	"Title": "Cherry Blossom",
+	"Type": "time",
+	"Cherry_Blossom":
+	[
+		{ "id": "Cherry_Blossom_01", "time": 0 },
+		{ "id": "Cherry_Blossom_02", "time": 0.25 },
+		{ "id": "Cherry_Blossom_03", "time": 0.333333333333333 },
+		{ "id": "Cherry_Blossom_04", "time": 0.416666666666667 },
+		{ "id": "Cherry_Blossom_05", "time": 0.708333333333333 },
+		{ "id": "Cherry_Blossom_06", "time": 0.791666666666667 },
+		{ "id": "Cherry_Blossom_07", "time": 0.916666666666667 }
+	]
+}

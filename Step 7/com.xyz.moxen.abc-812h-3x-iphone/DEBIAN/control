@@ -1,0 +1,12 @@
+Package: com.xyz.moxen.abc-812h-3x-iphone
+Version: 2009
+Section: XenHTML ( Assets )
+Name: macOS Mojave ( iPhone 5.8" )
+Author: Aeneon <aeneon@avalon-studios.de>
+Maintainer: Aeneon <aeneon@avalon-studios.de>
+Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
+Pre-Depends: cy+model.iphone, gsc.main-screen-height (= 2436)
+Depends: com.macthemes.moxen (>= 2007)
+Architecture: iphoneos-arm
+Description: macOS Mojave meets "moXen" …
+Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.mojave

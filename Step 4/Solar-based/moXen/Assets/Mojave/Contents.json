@@ -1,0 +1,23 @@
+{
+	"Title": "macOS Mojave",
+	"Type": "solar",
+	"Mojave":
+	[
+		{ "id": "Mojave_01", "altitude": -52.7531813787993, "azimuth": 2.1750965538675473 },
+		{ "id": "Mojave_02", "altitude": -38.0474338868242, "azimuth": 53.509085812513092 },
+		{ "id": "Mojave_03", "altitude": -10.239758644725, "azimuth": 81.775887144809985 },
+		{ "id": "Mojave_04", "altitude": -4.24773440807546, "azimuth": 86.33545030477751 },
+		{ "id": "Mojave_05", "altitude": 1.38908663310084, "azimuth": 90.812670374961954 },
+		{ "id": "Mojave_06", "altitude": 7.16716897052613, "azimuth": 95.307409588765893 },
+		{ "id": "Mojave_07", "altitude": 13.0861941916416, "azimuth": 99.920629632689383 },
+		{ "id": "Mojave_08", "altitude": 40.4156394649043, "azimuth": 129.18652208191958 },
+		{ "id": "Mojave_09", "altitude": 53.4334726617277, "azimuth": 182.23309425497911 },
+		{ "id": "Mojave_10", "altitude": 38.7931282006386, "azimuth": 233.55159195809591 },
+		{ "id": "Mojave_11", "altitude": 11.0894231712659, "azimuth": 261.87159046576664 },
+		{ "id": "Mojave_12", "altitude": 5.18457532367362, "azimuth": 266.44327370710511 },
+		{ "id": "Mojave_13", "altitude": -0.342752838753503, "azimuth": 270.93340578273398 },
+		{ "id": "Mojave_14", "altitude": -6.24830937412279, "azimuth": 275.44204536695247 },
+		{ "id": "Mojave_15", "altitude": -12.2077073521489, "azimuth": 280.07031589401174 },
+		{ "id": "Mojave_16", "altitude": -39.4893395199301, "azimuth": 309.41857318745144 }
+	]
+}
