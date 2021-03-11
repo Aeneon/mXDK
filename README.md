@@ -222,7 +222,7 @@ It's Time to verify, that our Wallpaper-Set is working. Transfer `Contents.json`
 - Homescreen&nbsp;: `/var/mobile/Library/Widgets/Homescreen/moXen/Developer`
 - Lockscreen&nbsp;: `/var/mobile/Library/Widgets/Lockscreen/moXen/Developer`
 
-Now head over in Preferences, select &quot;Xen HTML&quot; and choose between &quot;Lockscreen&quot; and &quot;Homescreen&quot;. Select &quot;Background Widgets&quot; and &quot;moXen&quot;, tap on the Settings-Icon and switch on &quot;Developer Mode&quot;.
+Now head over in Preferences, select &quot;Xen HTML&quot; and choose between &quot;Lockscreen&quot; and &quot;Homescreen&quot;. Select &quot;Background Widgets&quot; and &quot;moXen&quot;, tap on the Settings-Icon, choose &quot;Developer Options&quot; and switch on &quot;Developer Mode&quot;.
 
 If everything is working, you should now see your running Wallpaper-Set&nbsp;…
 
@@ -252,7 +252,7 @@ NAME
   moXen -- Simply powerful. On your Mac and also on iOS.
 
 VERSION
-  2102 ( February 23, 2021 )
+  2103 ( March 8, 2021 )
 
 SYNOPSIS
   moxen [ -u | -l ]
@@ -261,7 +261,7 @@ DESCRIPTION
   This Command Line Utility allows Developers to update the Backgrounds-Array and list available Wallpaper-Sets.
 
   The Options are as follows:
-    -u    Updates Backgrounds-Array in Options.plist; --update is for the non-lazy Ones.
+    -u    Updates Backgrounds-Array in config.plist; --update is for the non-lazy Ones.
 
     -l    Lists Wallpaper-Sets in Assets; --list is for the non-lazy Ones.
 
@@ -271,7 +271,7 @@ NOTES
   moxen comes with no Warranty, neither express nor implied. If it blows up your Widgets, eats your Children, or causes you bodily Harm, all you'll get is a little Pity and maybe an Apology.
 ```
 
-As you can see&nbsp;: The Command `moxen -u` updates the &quot;Background&quot;-Array in the File `Options.plist`.
+As you can see&nbsp;: The Command `moxen -u` updates the &quot;Background&quot;-Array in the File `config.plist`.
 
 Now head over in Preferences, select &quot;Xen HTML&quot; and choose between &quot;Lockscreen&quot; and &quot;Homescreen&quot;. Select &quot;Background Widgets&quot; and &quot;moXen&quot;, tap on the Settings-Icon, look for your Wallpaper-Set in &quot;Background&quot; and select it.
 
