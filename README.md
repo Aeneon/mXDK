@@ -2,9 +2,9 @@
 
 **Hello Friends,**
 
-if you own a Mac running macOS Mojave or newer, you've surely noticed, there's a Function called &quot;Time-shifting Wallpapers&quot;. Wouldn't it be nice, if iOS does have such a Feature with Performance in Mind and being Battery Friendly&nbsp;? [moXen](https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen) make your Dreams come true and it ships with three great Backgrounds&nbsp;: [Mojave](https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.mojave), [Catalina](https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.catalina) and [Big Sur](https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.bigsur)&nbsp;…
+if you own a Mac running macOS Mojave or newer, you've surely noticed, there's a Function called &quot;Time-shifting Wallpapers&quot;. Wouldn't it be nice, if iOS does have such a Feature with Performance in Mind and being Battery Friendly&nbsp;? [moXen](https://macthemes.me/package.php?id=com.macthemes.moxen) make your Dreams come true and it ships with three great Backgrounds&nbsp;: [Mojave](https://macthemes.me/package.php?id=com.macthemes.moxen.mojave), [Catalina](https://macthemes.me/package.php?id=com.macthemes.moxen.catalina) and [Big Sur](https://macthemes.me/package.php?id=com.macthemes.moxen.bigsur)&nbsp;…
 
-<p align="center"><img src="https://repo.avalon-studios.de/developer/mXDK_Icon.png" /></p>
+<p align="center"><img src="https://macthemes.me/developer/mXDK_Icon.png" /></p>
 
 Now it's Time to create our own &quot;Time-shifting Wallpapers&quot;, so we can use it on every iPhone, iPod Touch or iPad running iOS 10 and above.
 
@@ -147,7 +147,7 @@ To test your newly created JSON-File, just copy the whole Code into the [JSON-Va
 
 If everything is fine, the Validator should display the following Messages&nbsp;:
 
-<p align="center"><img src="https://repo.avalon-studios.de/developer/mXDK_Contents_Validator.png" /></p>
+<p align="center"><img src="https://macthemes.me/developer/mXDK_Contents_Validator.png" /></p>
 
 Save your Changes and we can head over to the NextSTEP.
 
@@ -197,7 +197,7 @@ How do you create Images&nbsp;? It's very simple&nbsp;:
 
 3. Now select every Image and Drag&nbsp;&amp; Drop them into your created Folder, where also the File `Contents.json` is located.
 
-   <p align="center"><img src="https://repo.avalon-studios.de/developer/mXDK_Wallpaper_Preview.png" /></p>
+   <p align="center"><img src="https://macthemes.me/developer/mXDK_Wallpaper_Preview.png" /></p>
 
    You should now have a lot of Images in your Folder.
 
@@ -226,7 +226,7 @@ Now head over in Preferences, select &quot;Xen HTML&quot; and choose between &qu
 
 If everything is working, you should now see your running Wallpaper-Set&nbsp;…
 
-<p align="center"><img src="https://repo.avalon-studios.de/developer/mXDK_OnDevice_Preview.png" /></p>
+<p align="center"><img src="https://macthemes.me/developer/mXDK_OnDevice_Preview.png" /></p>
 
 The Developer Mode has a Function to run through a Day in 24 Minutes, which means you can see how moXen cycles through the Images of your Wallpaper-Set during a Day&nbsp;…
 
@@ -363,14 +363,14 @@ Package: com.xyz.moxen.abc-667h-2x-iphone
 Version: 2009
 Section: XenHTML ( Assets )
 Name: macOS Mojave ( iPhone 4.7" )
-Author: Aeneon <aeneon@avalon-studios.de>
-Maintainer: Aeneon <aeneon@avalon-studios.de>
+Author: Aeneon <me@macthemes.me>
+Maintainer: Aeneon <me@macthemes.me>
 Icon: file:///usr/share/macthemes/sections/xenhtml@2x.png
 Pre-Depends: cy+model.iphone, gsc.main-screen-height (= 1334)
 Depends: com.macthemes.moxen (>= 2007)
 Architecture: iphoneos-arm
 Description: macOS Mojave meets "moXen" …
-Depiction: https://repo.avalon-studios.de/package.php?id=com.macthemes.moxen.mojave
+Depiction: http://macthemes.me/package.php?id=com.macthemes.moxen.mojave
 ```
 
 Let's explain these Fields. If you want more Information about the Fields, have a Look at &quot;[Control files and their fields](https://www.debian.org/doc/debian-policy/ch-controlfields.html#binary-package-control-files-debian-control)&quot;&nbsp;…
@@ -402,7 +402,7 @@ Then we can create the Debian-Package from our Debian-Folder. Open the Context M
 
 That's it&nbsp;! We hope you use the Developer Kit to create some amazing new Wallpaper-Sets for moXen. If you would like to contribute to this Project, let us know.
 
-If you respect our hard Work, you can help us with a small Donation via [PayPal.me](https://paypal.me/avalonstudios)&nbsp;😃&nbsp;…
+If you respect our hard Work, you can help us with a small Donation via [PayPal.me](https://www.paypal.com/donate/?hosted_button_id=F5EPEFSLDBHPQ)&nbsp;😃&nbsp;…
 
 
 ## 9. Greetings
