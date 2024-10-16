@@ -4,7 +4,7 @@
 
 if you own a Mac running macOS Mojave or newer, you've surely noticed, there's a Function called &quot;Time-shifting Wallpapers&quot;. Wouldn't it be nice, if iOS does have such a Feature with Performance in Mind and being Battery Friendly&nbsp;? [moXen](https://macthemes.me/package.php?id=com.macthemes.moxen) make your Dreams come true and it ships with three great Backgrounds&nbsp;: [Mojave](https://macthemes.me/package.php?id=com.macthemes.moxen.mojave), [Catalina](https://macthemes.me/package.php?id=com.macthemes.moxen.catalina) and [Big Sur](https://macthemes.me/package.php?id=com.macthemes.moxen.bigsur)&nbsp;…
 
-<p align="center"><img src="https://macthemes.me/developer/mXDK_Icon.png" /></p>
+<p align="center"><img src="https://macthemes.me/developer/mXDK_Header.png" /></p>
 
 Now it's Time to create our own &quot;Time-shifting Wallpapers&quot;, so we can use it on every iPhone, iPod Touch or iPad running iOS 10 and above.
 
